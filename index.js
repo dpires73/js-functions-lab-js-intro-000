@@ -1,6 +1,6 @@
 // write your code below!
-function happyHolidays {
-	console.log ("Happy holidays!");
+function happyHolidays (holiday)
+	holiday = "Happy holidays!";
 }
 /*
 function happyHolidaysTo(name)
